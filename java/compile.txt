@@ -1,0 +1,20 @@
+    PLEASE READ THIS
+
+              JAVA COMPILE
+
+  CMD prompt instruction:
+
+Enter "javac [file path]/java_rpg/java/Main.java" to compile
+Then enter "java [class name]"
+
+  VSCODE instruction:
+
+Install the "Extension Pack for Java" extension,
+Run the code by clicking the play button at the right top.
+
+  ECLIPSE FOR JAVA instruction
+
+Go to src/main/Main.java, and press the green run button 
+at the top.
+
+    Congrats! you have ran this code
